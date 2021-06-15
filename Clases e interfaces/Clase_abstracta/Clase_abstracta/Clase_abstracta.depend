@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1623782931 source:d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\clase_abstracta\clase_abstracta\estudiante.cpp
+	"Estudiante.h"
+
+1623785050 d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\clase_abstracta\clase_abstracta\estudiante.h
+	"Humano.h"
+
+1623785050 d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\clase_abstracta\clase_abstracta\humano.h
+	<iostream>
+	<string>
+
+1623784278 source:d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\clase_abstracta\clase_abstracta\humano.cpp
+	"Humano.h"
+
+1623784380 source:d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\clase_abstracta\clase_abstracta\main.cpp
+	"Humano.h"
+	"Estudiante.h"
+
+1623784278 d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\clase_abstracta\clase_abstracta\humano.cpp
+	"Humano.h"
+
+1623782931 d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\clase_abstracta\clase_abstracta\estudiante.cpp
+	"Estudiante.h"
+

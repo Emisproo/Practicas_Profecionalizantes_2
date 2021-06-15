@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1623779092 source:d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\interfaz_c++\human.cpp
+	"Human.h"
+
+1623785516 d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\interfaz_c++\human.h
+	<iostream>
+	<string>
+
+1623785645 source:d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\interfaz_c++\student.cpp
+	"Student.h"
+
+1623785636 d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\interfaz_c++\student.h
+	"Human.h"
+
+1623785662 source:d:\analisis en sistemas\2do año\practicas ii\clases e interfaces\interfaz_c++\main.cpp
+	"Human.h"
+	"Student.h"
+
